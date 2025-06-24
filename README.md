@@ -69,5 +69,7 @@ Practiced standardizing column names and preparing for feature encoding
 
 Understood the structure of a real-world ETL pipeline
 
-*Output of the file* 
+*Output of the file* : ![Image](https://github.com/user-attachments/assets/01c5448c-2674-4423-a237-fa8e1501253b)
+
+
 
